@@ -1,11 +1,8 @@
-Here's the complete README.md file:
-
-```markdown
 # Memory Access Pattern Benchmark Suite
 
 A comprehensive benchmarking tool that demonstrates how hardware prefetchers optimize different memory access patterns in C and C++. This project reproduces and extends Daniel Lemire's research on predictable memory access performance.
 
-[![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B%2FPython-blue)](#)
+[![Language](https://img.shields.io/badge/Language-C%2FC%2B%2FPython-blue)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2FLinux%2FmacOS-green)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
 
@@ -285,27 +282,3 @@ Contributions welcome! Areas for enhancement:
 ---
 
 > 💡 **Tip**: For best results, run benchmarks on a quiet system with minimal background processes. The performance differences demonstrate fundamental hardware optimization principles that affect all memory-intensive applications.
-```
-
-Save this as `README.md` in your project directory. The file includes:
-
-✅ **Complete project documentation**  
-✅ **Installation and usage instructions**  
-✅ **Chart interpretation guide**  
-✅ **Technical background and methodology**  
-✅ **Troubleshooting section**  
-✅ **Proper markdown formatting** with headers, tables, code blocks, and links  
-✅ **Table of contents** with anchor links  
-✅ **Professional structure** suitable for GitHub repositories
-
-The README is comprehensive and will help anyone understand, install, and use your memory access pattern benchmark suite!
-
-[1](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
-[2](https://gist.github.com/jonschlinkert/ac5d8122bfaaa394f896)
-[3](https://www.docstomarkdown.pro/create-a-table-of-contents-in-markdown/)
-[4](https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
-[5](https://www.markdownguide.org/hacks/)
-[6](https://docusaurus.io/docs/3.0.1/markdown-features/toc)
-[7](https://www.setcorrect.com/portfolio/work11/)
-[8](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-give it as a markdown file
